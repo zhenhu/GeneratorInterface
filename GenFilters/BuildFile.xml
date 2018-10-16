@@ -1,0 +1,15 @@
+<use   name="boost"/>
+<use   name="FWCore/PluginManager"/>
+<use   name="FWCore/ParameterSet"/>
+<use   name="FWCore/Framework"/>
+<use   name="SimDataFormats/GeneratorProducts"/>
+<use   name="heppdt"/>
+<use   name="clhep"/>
+<use   name="root"/>
+<use   name="GeneratorInterface/Pythia6Interface"/>
+<use   name="GeneratorInterface/Core"/>
+<use   name="SimGeneral/HepPDTRecord"/>
+<use   name="CommonTools/UtilAlgos"/>
+<use   name="FWCore/ServiceRegistry"/>
+<use   name="DataFormats/HepMCCandidate"/>
+<flags   EDM_PLUGIN="1"/>
